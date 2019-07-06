@@ -29,5 +29,4 @@ array.forEach((key,item,arr)=>{
 function deleteCommit()
 {
   console.log("commit1");
-  console.log("test");
 }
