@@ -13,5 +13,5 @@ array.forEach((key,item,arr)=>{
     console.log(key);
     console.log(item);
     console.log(arr);
-    console.log(item, index,arr);
+    console.log(item, index);
   })
